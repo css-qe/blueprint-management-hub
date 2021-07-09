@@ -11,7 +11,7 @@ metadata:
   namespace: argocd
   annotations:
     apps.open-cluster-management.io/github-path: >-
-      sites/staging-edge.gcp.devcluster.openshift.com/03_services/argocd-gitops-factory
+      sites/staging-edge-1.edge.css-qe.com/03_services/argocd-gitops-factory
 spec:
   channel: acm-blueprint-industrial-edge-gitops/acm-channel-blueprint-industrial-edge
   placement:
